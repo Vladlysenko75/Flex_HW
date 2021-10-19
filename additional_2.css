@@ -1,0 +1,55 @@
+.father {
+    height: 1400px;
+    width: 800px;
+    background-color: grey;
+}
+
+.header {
+    width: 800px;
+    height: 50px;
+    background-color: #f1ec17;
+}
+
+.raz {
+    display: flex;
+}
+
+.sidebar {
+    height: 1350px;
+    width: 100px;
+    background-color: green;
+}
+
+.tri {
+    width: 700px;
+    height: 300px;
+    background-color: yellowgreen;
+}
+
+.chtiri {
+    width: 700px;
+    height: 200px;
+    background-color: pink;
+}
+
+.together {
+    display: flex;
+}
+
+.pyat {
+    width: 600px;
+    height: 700px;
+    background-color: firebrick;
+}
+
+.shest {
+    width: 100px;
+    height: 700px;
+    background-color: blue;
+}
+
+.sedm {
+    width: 700px;
+    height: 150px;
+    background-color: mediumpurple;
+}
